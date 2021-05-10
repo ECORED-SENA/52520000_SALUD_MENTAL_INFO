@@ -252,16 +252,10 @@ export const menuPrincipal = {
 
 export const creditos = {
   liderEquipo: {
-    nombre: 'Ingry Dayanna Bonilla Monzon ',
+    nombre: 'Maria Camila Garcia Santamaria',
     cargo: 'Líder del equipo',
   },
   contenidoInstruccional: [
-    {
-      nombre: 'Gloria Matilde Lee Mejía',
-      cargo: 'Responsable del equipo',
-      centro: 'Centro de Comercio y Servicios',
-      regional: 'Regional Tolima',
-    },
     {
       nombre: 'Rafael Neftalí Lizcano Reyes',
       cargo: 'Asesor pedagógico',
@@ -298,17 +292,9 @@ export const creditos = {
     },
     {
       nombre: [
-        'Adriana Rincón Avendaño',
-        'Daniel Ricardo Mutis Gómez',
-        'Camilo Andrés Villamizar Lizcano',
-        'José Jaime Luis Tang Pinzón',
-        'Lady Adriana Ariza Luque',
-        'Maria Camila Ovalle Ospina',
-        'Nelson Iván Vera Briceño',
-        'Oleg Litvin',
-        'Yazmin Rocio Figueroa Pacheco',
-        'Yenny patricia Ulloa Villamizar',
-        'Víctor Raúl Cárdenas Cáceres',
+        'Carlos Julian Ramirez Benitez',
+        'Juan Daniel Polanco Muñoz',
+        'Zuleidy Maria Ruiz Torres',
       ],
       cargo: 'Diseño web y Producción Audiovisual',
     },
